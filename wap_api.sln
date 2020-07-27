@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wap_api", "wap_api\wap_api.csproj", "{16AEDA58-4EEF-441D-863E-B7CF622D8EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wap_client", "wap_client\wap_client.csproj", "{4FE981A5-5EAC-4B86-87A8-F7821343E8B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap_client", "cap_client\cap_client.csproj", "{29054011-7854-4C9A-B772-F6FEC8D160C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16AEDA58-4EEF-441D-863E-B7CF622D8EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AEDA58-4EEF-441D-863E-B7CF622D8EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AEDA58-4EEF-441D-863E-B7CF622D8EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AEDA58-4EEF-441D-863E-B7CF622D8EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE981A5-5EAC-4B86-87A8-F7821343E8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE981A5-5EAC-4B86-87A8-F7821343E8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE981A5-5EAC-4B86-87A8-F7821343E8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE981A5-5EAC-4B86-87A8-F7821343E8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29054011-7854-4C9A-B772-F6FEC8D160C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29054011-7854-4C9A-B772-F6FEC8D160C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29054011-7854-4C9A-B772-F6FEC8D160C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29054011-7854-4C9A-B772-F6FEC8D160C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BEAC92B-3D94-40DA-B88E-422E51F66956}
+	EndGlobalSection
+EndGlobal

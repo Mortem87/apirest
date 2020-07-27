@@ -1,0 +1,10 @@
+C:\Users\pjuarez\source\repos\wap_api\cap_client\bin\Debug\cap_client.exe.config
+C:\Users\pjuarez\source\repos\wap_api\cap_client\bin\Debug\cap_client.exe
+C:\Users\pjuarez\source\repos\wap_api\cap_client\bin\Debug\cap_client.pdb
+C:\Users\pjuarez\source\repos\wap_api\cap_client\obj\Debug\cap_client.csprojAssemblyReference.cache
+C:\Users\pjuarez\source\repos\wap_api\cap_client\obj\Debug\cap_client.csproj.CoreCompileInputs.cache
+C:\Users\pjuarez\source\repos\wap_api\cap_client\obj\Debug\cap_client.exe
+C:\Users\pjuarez\source\repos\wap_api\cap_client\obj\Debug\cap_client.pdb
+C:\Users\pjuarez\source\repos\wap_api\cap_client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pjuarez\source\repos\wap_api\cap_client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pjuarez\source\repos\wap_api\cap_client\obj\Debug\cap_client.csproj.CopyComplete
